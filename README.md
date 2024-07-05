@@ -77,6 +77,5 @@ For any questions or comments about the Chumor 1.0 dataset, please contact the c
 
 ## Additional Resources
 
-- [Supplementary Material](static/pdfs/supplementary_material.pdf)
-- [Code Repository](https://github.com/YOUR-REPO-HERE)
+- [Dataset](https://github.com/dnaihao/Chumor-dataset)
 - [arXiv Abstract](https://arxiv.org/abs/2406.12754)
